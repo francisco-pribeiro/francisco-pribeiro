@@ -21,9 +21,9 @@ Not switching careers. Building the bridge between finance domain expertise and 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [push_swap](https://github.com/francisco-pribeiro/push_swap) | Sorting algorithm using two stacks with a constrained instruction set | `C` |
-| [a_maze_ing](https://github.com/francisco-pribeiro/a_maze_ing) | Maze generator with hex wall encoding and BFS solver | `Python` |
+| [a_maze_ing](https://github.com/francisco-pribeiro/a_maze_ing) | Terminal maze generator with recursive backtracker, hex wall encoding, BFS solver, animated rendering, and Unicode box-drawing output | `Python` |
 | [fly_in](https://github.com/francisco-pribeiro/fly_in) | Drone routing optimisation across connected zones, minimising simulation turns | `Python` |
-| [python_piscine](https://github.com/francisco-pribeiro/python_piscine)) | Data structures, OOP, functional programming, data pipelines, Pydantic | `Python` |
+| [python_machine](https://github.com/francisco-pribeiro/python_machine) | Full Python piscine — 11 modules covering data structures, OOP, functional programming, data pipelines, and Pydantic | `Python` |
 
 ---
 
