@@ -23,7 +23,7 @@ Not switching careers. Building the bridge between finance domain expertise and 
 | [push_swap](https://github.com/cs50fran/push_swap) | Sorting algorithm using two stacks with a constrained instruction set | `C` |
 | [a_maze_ing](https://github.com/cs50fran/a_maze_ing) | Maze generator with hex wall encoding and BFS solver | `Python` |
 | [fly_in](https://github.com/cs50fran/fly_in) | Drone routing optimisation across connected zones, minimising simulation turns | `Python` |
-| python_module series | Data structures, OOP, functional programming, data pipelines, Pydantic | `Python` |
+| [python_piscine](https://github.com/cs50fran/python_piscine) | Data structures, OOP, functional programming, data pipelines, Pydantic | `Python` |
 
 ---
 
