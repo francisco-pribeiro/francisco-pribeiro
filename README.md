@@ -18,10 +18,9 @@ Not switching careers. Building the bridge between finance domain expertise and 
 
 ### Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francisco-pribeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-pribeiro&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+| | |
+|---|---|
+| ![stats](https://github-readme-stats.vercel.app/api?username=francisco-pribeiro&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-pribeiro&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800) |
 
 ---
 
