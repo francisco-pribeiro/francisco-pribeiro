@@ -28,10 +28,15 @@ Not switching careers. Building the bridge between finance domain expertise and 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [push_swap](https://github.com/francisco-pribeiro/push_swap) | Sorting algorithm using two stacks with a constrained instruction set | `C` |
-| [a_maze_ing](https://github.com/francisco-pribeiro/a_maze_ing) | Terminal maze generator with recursive backtracker, hex wall encoding, BFS solver, animated rendering, and Unicode box-drawing output | `Python` |
+| [libft](https://github.com/francisco-pribeiro/libft) | Custom C standard library reimplementation — Milestone 0 | `C` |
+| [ft_printf](https://github.com/francisco-pribeiro/ft_printf) | Reimplementation of printf with variadic argument handling — Milestone 1 | `C` |
+| [get_next_line](https://github.com/francisco-pribeiro/get_next_line) | File descriptor reader returning one line at a time with static buffer management — Milestone 1 | `C` |
+| [push_swap](https://github.com/francisco-pribeiro/push_swap) | Sorting algorithm using two stacks with a constrained instruction set — Milestone 2 | `C` |
+| [exam_rank02](https://github.com/francisco-pribeiro/exam_rank02) | Exam 02 exercises | `C` |
+| [codexion](https://github.com/francisco-pribeiro/codexion) | Dining philosophers simulation with FIFO/EDF scheduling | `C` |
+| [a_maze_ing](https://github.com/francisco-pribeiro/a_maze_ing) | Maze generator with hex wall encoding and BFS solver | `Python` |
 | [fly_in](https://github.com/francisco-pribeiro/fly_in) | Drone routing optimisation across connected zones, minimising simulation turns | `Python` |
-| [python_machine](https://github.com/francisco-pribeiro/python_machine) | Full Python piscine — 11 modules covering data structures, OOP, functional programming, data pipelines, and Pydantic | `Python` |
+| [python_piscine](https://github.com/francisco-pribeiro/python_piscine) | Python modules 00–10: data structures, OOP, functional programming, data pipelines, Pydantic | `Python` |
 
 ---
 
