@@ -12,7 +12,7 @@
 ---
 
 3+ years in financial controlling and FP&A — now adding Python, C, SQL, and AI tools to that foundation at 42 Lisboa.
-Not switching careers. Building the bridge between finance domain expertise and technical execution.
+Building the bridge between finance domain expertise and technical execution.
 
 ---
 
